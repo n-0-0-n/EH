@@ -1,0 +1,12 @@
+who is, google
+A) ping google.com
+
+B) google search operators
+i) inurl = Inurl:"vartak"
+ii) Allurl = Allurl:"vartak college"
+iii) Blogurl
+iv) Site
+v) Intitle : "plushies"
+vi) Allintitle : "siddhant"
+
+C) whois google.com

@@ -1,0 +1,18 @@
+2-A) cryptool
+1) Create a text file And save it in appropriate location
+2) Open cryptool and go to encryption tab and select rc4 in 16 bit
+3) After clicking the encryption  we get the converted message
+4) Save the message to your desktop For decryption
+5) Click on decoration tab and select the same file on desktop
+6) Click ok and obtain output
+
+B) cain and abel Password cracking and wireless network dwelling
+1) Download install cain and abel
+2) Go to sniffer and click on configure select the correct Wireless adaptor click on apply tab and click on OK button
+3) Activate sniffer
+4) Click on + Icon check on all test checkbox and click on OK 
+5) Click on APR tab then click on blank screen click on + icon select any for ipv4 address from the list
+6) Transfer all IP and Mac addresses to the right hand side click OK
+7) apply APR
+8) It gives the status of all the devices corrected to Wi-Fi
+9) Go to password Tab and It will display all the password present

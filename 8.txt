@@ -1,0 +1,10 @@
+practical 8 A network traffic wireshark
+
+Step 1 - select available interfaces
+Step 2 - select an appropriate interface from the list
+Step 3 - Capture
+Step 4 - stop capturing
+5 - Click any row and then click on protocol
+6 - Select Conversation filter
+7 - Observe understand the communication
+8 - Click on statistics menu Select conversational observe and understand data transfer and communication                 
